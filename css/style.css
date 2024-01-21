@@ -975,7 +975,8 @@ ul.footer-list li a:hover{
 .navbar-brand > img{ max-height: 45px;}
 
 .navbar-default .navbar-nav > li > a.selected{
-	color: #3498db;
+	color: #3c763d;
+	text-decoration: underline;
 }
 
 .dropdown-menu li a.selected,
